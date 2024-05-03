@@ -5,4 +5,3 @@ spectral
 scikit-learn
 plotly
 scipy
-operator
