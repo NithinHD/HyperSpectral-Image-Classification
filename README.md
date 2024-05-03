@@ -20,4 +20,4 @@ To use this project, follow these steps:
 
 ## Usage
 
-To run the hyper-spectral image classification system, execute the following command:
+Run the `Image-Classifier.ipynb` notebook to train and test the hyper-spectral image classification model.
